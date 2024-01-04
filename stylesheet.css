@@ -18,10 +18,10 @@ a {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 100px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: white;
+  color: rgba(19, 3, 3, 0.921);
   text-align: center;
 }
 
@@ -79,7 +79,7 @@ header {
   height: 65px;
   width: 100%;
   background-color: rgba(34,49,52,0.9);
-  position :fixed;
+  /* position :fixed; */
   top: 0;
   z-index: 10;
 }
@@ -116,7 +116,7 @@ header {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
-  background-color: #f7f7f7;
+  /*background-color: #f7f7f7;*/
   text-align: center;
 }
 
