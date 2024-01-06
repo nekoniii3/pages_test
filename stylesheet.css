@@ -85,8 +85,8 @@ header {
 }
 
 .logo {
-  width: 124px;
-  margin-top: 20px;
+  width: 90px;
+  margin-top: 8px;
 }
 
 .header-left {
@@ -242,7 +242,7 @@ footer {
   }
 
   .twitter {
-    margin-top: 10px;
+    margin-top: 0;
   }
 
   .top-wrapper {
@@ -268,4 +268,9 @@ footer {
   .message-wrapper .btn {
     width: 100%;
   }
+}
+
+.icon {
+  width: 60px;
+  margin-top: 0px;
 }
