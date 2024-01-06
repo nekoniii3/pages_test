@@ -17,6 +17,13 @@ a {
   margin: 0 auto;
 }
 
+.page-title {
+  font-size: 50px;
+  font-weight: bold;
+  letter-spacing: 1px;
+  padding-bottom: 20px;
+}
+
 .top-wrapper {
   padding: 100px 0 100px 0;
   background-image: url(top.png);
@@ -124,10 +131,17 @@ header {
   padding-top: 280px;
   padding-bottom: 50px;
   color: #5f5d60;
+  /* width: 30px;
+  height: 20px; */
 }
 
 .heading h2 {
   font-weight: normal;
+}
+
+.heading img {
+  width: 10%;
+  height: 10%;
 }
 
 .lesson {
